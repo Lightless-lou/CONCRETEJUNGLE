@@ -181,8 +181,8 @@
   height:320px; 
   overflow:auto;
   padding:15px;
-  background-color:var(--neutralOne);
-  bordar-radius:10px;
+  background-color:var(--neutralDarker);
+  border-radius:10px;
 }
 
 .cadre_lou2 {
@@ -192,8 +192,8 @@
 height:320px; 
   overflow:auto;
   padding:15px;
-  background-color:var(--neutralOne);
-  bordar-radius:10px;
+  background-color:var(--neutralDarker);
+  border-radius:10px;
 }
 
 .img_lou1 {
@@ -202,4 +202,4 @@ height:320px;
   grid-row: 4;
 }
 
-.img_lou1 img {width:200px; height:320px; object-fit:cover; border-radiu:10px;} 
+.img_lou1 img {width:200px; height:320px; object-fit:cover; border-radius:10px;} 
