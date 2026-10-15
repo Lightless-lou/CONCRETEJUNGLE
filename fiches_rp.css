@@ -184,6 +184,8 @@
   /* Ligne 4 : s'étend sur la colonne 1 et la colonne 2 */
   grid-column: 1 / span 2;
   grid-row: 4;
+  height:320px;
+  padding:10px; 
 }
 
 .img_lou1 {
@@ -191,3 +193,5 @@
   grid-column: 3;
   grid-row: 4;
 }
+
+.img_lou1 .img {width:200px; height:320px; object-fit:cover; border-radiu:10px;} 
