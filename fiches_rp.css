@@ -209,4 +209,4 @@ flex-flow:row;
 .cadre_lou3 img {width:100px; height:380px; object-fit:cover; border-radius:10px; margin-left:15px;} 
 .hist_lou {background:var(--neutralDark); padding:10px; overflox:auto; height:380px; width:100%; border-radius:10px;} 
 
-.lou_info {display:grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(4, 1fr); gap:10px;} 
+.lou_info {width:100%; display:grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(4, 1fr); gap:10px;} 
