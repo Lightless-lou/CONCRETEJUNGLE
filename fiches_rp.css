@@ -160,8 +160,9 @@
   grid-column: 1;
   grid-row: 1;
   wdth:100%;
+  height:fit-content;
   margin:3px;
-  padding:10px;
+  padding:5px;
   border: 1px solid var(--neutralDarker); 
   border-radius:10px;
   align-content:center;
