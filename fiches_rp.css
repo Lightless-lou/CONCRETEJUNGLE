@@ -167,7 +167,7 @@
   border-radius:10px;
   align-content:center;
 }
-.gl1 i {font-size:13px; color:var(--color1); padding:5px;}
+.gl1 i, .gl2 i, .gl3 i {font-size:13px; color:var(--color1); padding:5px;}
   
 .gl2 {
   grid-column: 1;
