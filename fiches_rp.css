@@ -222,7 +222,7 @@ height:320px;
   grid-row: 4;
 }
 
-.img_lou1 img {width:200px; height:320px; object-fit:cover; border-radius:10px;} 
+.img_lou1 img {width:180px; height:320px; object-fit:cover; border-radius:10px;} 
 
 .cadre_lou3 { display:flex; 
 flex-flow:row;
