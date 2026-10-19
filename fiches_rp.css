@@ -203,3 +203,12 @@ height:320px;
 }
 
 .img_lou1 img {width:200px; height:320px; object-fit:cover; border-radius:10px;} 
+
+.cadre_lou3 { display:flex; 
+flex-flow:row;
+            width:100%;}
+
+.cadre_lou3 img {width:100px; height:350px; object-fit:cover; border-radius:10px; margin-left:5px;} 
+.hist_lou {background:var(--neutralDark); padding:10px; overflox:auto; height:350px; width:auto;} 
+
+.lou_info {display:grid; grid-column-template: 1fr 1fr; grid-row-template: auto auto auto auto; gap:15px;} 
