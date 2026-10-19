@@ -232,4 +232,4 @@ flex-flow:row;
 .hist_lou {background:var(--neutralDark); padding:10px; overflox:auto; height:380px; width:100%; border-radius:10px;} 
 
 .lou_info {width:100%; display:flex; flex-flow: row wrap balance; gap:5px;} 
-.lou_p {width:49%; height:100px; background:var(--neutralDark); border-radius:10px; overflow:auto; padding:5px;} 
+.lou_p {width:48%; height:100px; background:var(--neutralDark); border-radius:10px; overflow:auto; padding:5px;} 
