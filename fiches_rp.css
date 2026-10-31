@@ -237,3 +237,4 @@ flex-flow:row;
 .lou_ship {padding:20px; align-content:center; justify-content:center; text-align:center; width:100%;}
 img.lsh_un {width:250px; height:250px; object-fit:cover; border-radius:50%; padding:5px; background:linear-gradient(110deg, var(--cjf-accent), var(--cjf-second));}
 img.lsh_de {width:250px; height:250px; object-fit:cover; border-radius:50%; padding:5px; background:linear-gradient(110deg, var(--cjf-accent), var(--cjf-second)); margin-left:-30px;}
+img.lsh_tr {width:100%; object-fit:cover; height:155px; border-radius:10px;}
