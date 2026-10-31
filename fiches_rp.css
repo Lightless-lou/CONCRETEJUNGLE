@@ -238,3 +238,5 @@ flex-flow:row;
 img.lsh_un {width:250px; height:250px; object-fit:cover; border-radius:50%; padding:5px; background:linear-gradient(110deg, var(--cjf-accent), var(--cjf-second));}
 img.lsh_de {width:250px; height:250px; object-fit:cover; border-radius:50%; padding:5px; background:linear-gradient(110deg, var(--cjf-accent), var(--cjf-second)); margin-left:-30px;}
 img.lsh_tr {width:100%; object-fit:cover; height:155px; border-radius:10px;}
+.moodb_lou {display:flex; flex-flow:row wrap; gap:10px; content-align:center; justify-content:center; margin-bottom:50px;}
+.moodb_lou img {width:200px; height:200px; object-fit:cover; border-radius:10px;}
